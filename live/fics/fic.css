@@ -1,6 +1,6 @@
 :root {
     --bg: #000000;
-    --main: rgb(234, 234, 234);
+    --main: rgba(234, 234, 234, 0.738);
     --border: rgb(170, 239, 96);
     --lighttext: whitesmoke;
     --link: #c30808;
