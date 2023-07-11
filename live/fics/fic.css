@@ -164,6 +164,7 @@ article {
 
     padding: .5em;
     border: 1px dotted var(--border);
+    border-radius: 5px;
     margin: .5em;
     background: white;
 }
